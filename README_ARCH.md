@@ -13,7 +13,7 @@
 
 ---
 
-## ⚡ TL;DR — start w 15 minut
+## ⚡ TL;DR — ULTRA SKOMPRESOWANA INSTRUKCJA
 
 Jeśli nie chce ci się czytać tego długiego i nudnego dokumentu, tutaj skrócona instrukcja instalacji.
 Potem zapraszam do sekcji z listą [przydatnych komend](#️-przydatne-komendy).
