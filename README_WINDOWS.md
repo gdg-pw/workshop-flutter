@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ Szybki start (15 minut)
+## ⚡  TL;DR — ULTRA SKOMPRESOWANA INSTRUKCJA
 
 Jeśli chcesz po prostu zacząć pisać aplikacje Flutter bez czytania całego poradnika:
 
