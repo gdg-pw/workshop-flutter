@@ -1,16 +1,14 @@
 # 🐦 Flutter — instalacja i przydatne komendy
 
-Szybki przewodnik instalacji i konfiguracji Flutter + VSCode.
-Wybierz swój system operacyjny:
-
+Bez zbędnych detali, szybka instrukcja instalacji i konfiguracji Fluttera + VSCode'a.
 ---
 
-## 📋 Spis treści
+## 📋 Systemy operacyjne
 
 | System | Plik | Status |
 |---|---|---|
 | 🪟 Windows | [Tutaj](README_WINDOWS.md) | ✅ Gotowe |
-| 🐧 Linux (Arch) | [Tutaj](README_ARCH.md) | ✅ Gotowe |
+| 🐧 Linux (Arch btw) | [Tutaj](README_ARCH.md) | ✅ Gotowe |
 | 🍎 macOS | — | 🚧 Wkrótce |
 
 ---
@@ -23,7 +21,7 @@ Instalacja przez VSCode lub ręcznie, rozwiązywanie problemów z PATH i zmienny
 
 ---
 
-## 🐧 Linux (Arch)
+## 🐧 Linux (Arch btw)
 
 Instalacja przez AUR (`yay -S flutter`) lub ręcznie przez `makepkg`.
 
