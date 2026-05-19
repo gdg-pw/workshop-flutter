@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ TL;DR — start w 15 minut
+## ⚡ TL;DR — ULTRA SKOMPRESOWANA INSTRUKCJA
 
 Tutaj ładnie i szybko bez zbędnego gadania jest skrócona instrukcja.
 Przydatne komendy są w sekcji [przydatne komendy](#️-przydatne-komendy) (no nie gadaj).
