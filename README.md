@@ -5,11 +5,11 @@ Bez zbędnych detali, szybka instrukcja instalacji i konfiguracji Fluttera + VSC
 
 ## 📋 Systemy operacyjne
 
-| System | Plik | Status |
-|---|---|---|
-| 🪟 Windows | [Tutaj](README_WINDOWS.md) | ✅ Gotowe |
-| 🐧 Linux (Arch btw) | [Tutaj](README_ARCH.md) | ✅ Gotowe |
-| 🍎 macOS | — | 🚧 Wkrótce |
+| System | Plik |
+|---|---|
+| 🪟 Windows | [Tutaj](README_WINDOWS.md) |
+| 🐧 Linux (Arch btw) | [Tutaj](README_ARCH.md) |
+| 🍎 macOS | [Tutaj](README_MACOS.md) |
 
 ---
 
@@ -31,7 +31,9 @@ Instalacja przez AUR (`yay -S flutter`) lub ręcznie przez `makepkg`.
 
 ## 🍎 macOS
 
-> Sekcja zostanie uzupełniona wkrótce.
+Instalacja przez brew albo VSCode.
+
+👉 [README_MACOS.md](README_MACOS.md)
 
 ---
 
