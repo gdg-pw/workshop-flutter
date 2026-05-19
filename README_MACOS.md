@@ -16,8 +16,8 @@
 
 ## ⚡ TL;DR — start w 15 minut
 
-Jeśli nie chce ci się czytać tego długiego i nudnego dokumentu, tutaj skrócona instrukcja instalacji.
-Potem zapraszam do sekcji z listą [przydatnych komend](#️-przydatne-komendy).
+Tutaj ładnie i szybko bez zbędnego gadania jest skrócona instrukcja.
+Przydatne komendy są w sekcji [przydatne komendy](#️-przydatne-komendy) (no nie gadaj).
 
 ```bash
 # 1. Zainstaluj Homebrew (jeśli jeszcze nie masz)
