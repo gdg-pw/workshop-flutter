@@ -9,8 +9,8 @@ Wybierz swój system operacyjny:
 
 | System | Plik | Status |
 |---|---|---|
-| 🪟 Windows | [README_WINDOWS.md](README_WINDOWS.md) | ✅ Gotowe |
-| 🐧 Linux (Arch) | [README_ARCH.md](README_ARCH.md) | ✅ Gotowe |
+| 🪟 Windows | [Tutaj](README_WINDOWS.md) | ✅ Gotowe |
+| 🐧 Linux (Arch) | [Tutaj](README_ARCH.md) | ✅ Gotowe |
 | 🍎 macOS | — | 🚧 Wkrótce |
 
 ---
