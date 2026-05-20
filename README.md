@@ -9,6 +9,7 @@ Bez zbędnych detali, szybka instrukcja instalacji i konfiguracji Fluttera + VSC
 |---|---|
 | 🪟 Windows | [Tutaj](README_WINDOWS.md) |
 | 🐧 Linux (Arch btw) | [Tutaj](README_ARCH.md) |
+| 🐧 Linux (Ubuntu) | [Tutaj](README_Flutter_Ubuntu.md) |
 | 🍎 macOS | [Tutaj](README_MACOS.md) |
 
 ---
